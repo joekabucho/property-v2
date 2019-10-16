@@ -1,7 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8313a1f7-69d8-43f3-953b-c07585b2e6a6" name="Default Changelist" comment="" />
+    <list default="true" id="8313a1f7-69d8-43f3-953b-c07585b2e6a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/property/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/config/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/config/desktop.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/config/desktop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/config/docs.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/config/docs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/assets/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/assets/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/assets/img/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/assets/img/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/assets/img/home.png" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/assets/img/home.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/contents.html" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/contents.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/contents.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/contents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/index.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/install.md" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/install.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/license.html" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/license.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/user/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/user/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/user/en/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/user/en/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/user/en/documents/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/user/en/documents/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/user/en/documents/bill_run.md" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/user/en/documents/bill_run.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/user/en/documents/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/user/en/documents/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/user/en/documents/unit.md" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/user/en/documents/unit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/user/en/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/user/en/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/user/en/setup/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/user/en/setup/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/user/en/setup/billperiod.md" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/user/en/setup/billperiod.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/user/en/setup/billruntype.md" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/user/en/setup/billruntype.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/user/en/setup/charge.md" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/user/en/setup/charge.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/user/en/setup/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/user/en/setup/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/user/en/setup/main-meter.md" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/user/en/setup/main-meter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/user/en/setup/unit-type.md" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/user/en/setup/unit-type.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/docs/user/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/properties/docs/user/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/hooks.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/hooks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/modules.txt" beforeDir="false" afterPath="$PROJECT_DIR$/properties/modules.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/patches.txt" beforeDir="false" afterPath="$PROJECT_DIR$/properties/patches.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_period/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_period/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_period/bill_period.js" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_period/bill_period.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_period/bill_period.json" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_period/bill_period.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_period/bill_period.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_period/bill_period.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_period/test_bill_period.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_period/test_bill_period.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_run/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_run/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_run/bill_run.js" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_run/bill_run.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_run/bill_run.json" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_run/bill_run.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_run/bill_run.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_run/bill_run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_run/bill_run.py.save" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_run/bill_run.py.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_run/test_bill_run.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_run/test_bill_run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_run_invoices/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_run_invoices/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_run_invoices/bill_run_invoices.json" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_run_invoices/bill_run_invoices.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_run_invoices/bill_run_invoices.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_run_invoices/bill_run_invoices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_run_type/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_run_type/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_run_type/bill_run_type.js" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_run_type/bill_run_type.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_run_type/bill_run_type.json" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_run_type/bill_run_type.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_run_type/bill_run_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_run_type/bill_run_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/bill_run_type/test_bill_run_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/bill_run_type/test_bill_run_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/charge/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/charge/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/charge/charge.js" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/charge/charge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/charge/charge.json" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/charge/charge.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/charge/charge.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/charge/charge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/charge/test_charge.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/charge/test_charge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/main_meter/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/main_meter/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/main_meter/main_meter.js" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/main_meter/main_meter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/main_meter/main_meter.json" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/main_meter/main_meter.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/main_meter/main_meter.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/main_meter/main_meter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/main_meter/test_main_meter.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/main_meter/test_main_meter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/meter_reading/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/meter_reading/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/meter_reading/meter_reading.js" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/meter_reading/meter_reading.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/meter_reading/meter_reading.json" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/meter_reading/meter_reading.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/meter_reading/meter_reading.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/meter_reading/meter_reading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/meter_reading/test_meter_reading.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/meter_reading/test_meter_reading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/other_charges/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/other_charges/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/other_charges/other_charges.js" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/other_charges/other_charges.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/other_charges/other_charges.json" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/other_charges/other_charges.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/other_charges/other_charges.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/other_charges/other_charges.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/other_charges/test_other_charges.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/other_charges/test_other_charges.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/other_charges_items/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/other_charges_items/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/other_charges_items/other_charges_items.json" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/other_charges_items/other_charges_items.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/other_charges_items/other_charges_items.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/other_charges_items/other_charges_items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/unit/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/unit/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/unit/test_unit.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/unit/test_unit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/unit/unit.js" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/unit/unit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/unit/unit.json" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/unit/unit.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/unit/unit.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/unit/unit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/unit_charge/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/unit_charge/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/unit_charge/unit_charge.json" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/unit_charge/unit_charge.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/unit_charge/unit_charge.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/unit_charge/unit_charge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/unit_meter_reading/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/unit_meter_reading/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/unit_meter_reading/unit_meter_reading.json" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/unit_meter_reading/unit_meter_reading.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/unit_meter_reading/unit_meter_reading.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/unit_meter_reading/unit_meter_reading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/unit_type/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/unit_type/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/unit_type/test_unit_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/unit_type/test_unit_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/unit_type/unit_type.js" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/unit_type/unit_type.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/unit_type/unit_type.json" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/unit_type/unit_type.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/property/doctype/unit_type/unit_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/property/doctype/unit_type/unit_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/templates/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/templates/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/templates/generators/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/templates/generators/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/templates/pages/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/templates/pages/__init__.py" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,8 +112,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -26,6 +122,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/setup.py" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="255" />
@@ -86,13 +189,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="586000" />
+    <option name="totallyTimeSpent" value="1116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="697" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -105,7 +207,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="GraphQL" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32906765" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32906765" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -118,8 +220,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>

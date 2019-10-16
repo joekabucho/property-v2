@@ -13,7 +13,7 @@ with open('property/__init__.py', 'rb') as f:
 requirements = parse_requirements("requirements.txt", session="")
 
 setup(
-	name='property',
+	name='properties',
 	version=version,
 	description='Property Management',
 	author='Opensource Solutions Philippines',
